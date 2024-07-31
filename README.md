@@ -48,7 +48,7 @@
 
 To get started with the exercises and resources, explore the directories and files provided in this repository. Follow the instructions in each exercise to practice and apply what you've learned from the book.
 
-For more details and updates, refer to the [book's website](http://www.smarterwaytolearn.com).
+For more details and updates, refer to the [book's website](https://cdn.wccftech.com/wp-content/uploads/2014/10/JavaScript.pdf).
 
 ---
 
